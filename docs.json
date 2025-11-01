@@ -7,6 +7,12 @@
     "light": "#F9F9F9",
     "dark": "#1A1A1A"
   },
+  "fonts": {
+    "family": "Outfit",
+    "source": "/fonts/outfit-regular.woff2",
+    "format": "woff2",
+    "weight": 400
+  },
   "seo": {
     "metatags": {
       "robots": "noindex"
