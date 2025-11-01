@@ -8,10 +8,18 @@
     "dark": "#1A1A1A"
   },
   "fonts": {
-    "family": "Outfit",
-    "source": "/fonts/outfit-regular.woff2",
-    "format": "woff2",
-    "weight": 400
+    "heading": {
+      "family": "Outfit",
+      "source": "/fonts/outfit-semibold.woff2",
+      "format": "woff2",
+      "weight": 600
+    },
+    "body": {
+      "family": "Outfit",
+      "source": "/fonts/outfit-Regular.woff2",
+      "format": "woff2",
+      "weight": 400
+    }
   },
   "seo": {
     "metatags": {
