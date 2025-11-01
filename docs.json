@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Offerclub Docs",
   "colors": {
     "primary": "#000000",
     "light": "#F9F9F9",
@@ -76,13 +76,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://offerclub.io/blog",
           "icon": "newspaper"
         }
       ]
@@ -96,13 +91,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://offerclub.io/support"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://my.offerclub.io/"
     }
   },
   "contextual": {
@@ -119,9 +114,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "facebook": "https://www.facebook.com/offerclub.io",
+      "instagram": "https://www.instagram.com/offerclub.io/",
+      "x": "https://x.com/offerclub_io",
+      "github": "https://github.com/offerclub"
     }
   }
 }
