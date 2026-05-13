@@ -8,18 +8,7 @@
     "dark": "#1A1A1A"
   },
   "fonts": {
-    "heading": {
-      "family": "Outfit",
-      "source": "/fonts/outfit-semibold.woff2",
-      "format": "woff2",
-      "weight": 600
-    },
-    "body": {
-      "family": "Outfit",
-      "source": "/fonts/outfit-Regular.woff2",
-      "format": "woff2",
-      "weight": 400
-    }
+    "family": "Outfit"
   },
   "seo": {
     "metatags": {
@@ -132,6 +121,27 @@
       "instagram": "https://www.instagram.com/offerclub.io/",
       "x": "https://x.com/offerclub_io",
       "github": "https://github.com/offerclub"
+    }
+  },
+  "appearance": {
+    "default": "dark"
+  },
+  "icons": {
+    "library": "lucide"
+  },
+  "integrations": {
+    "gtm": {
+      "tagId": "GTM-5P3N43TH"
+    }
+  },
+  "metadata": {
+    "timestamp": false
+  },
+  "errors": {
+    "404": {
+      "redirect": true,
+      "title": "Oops! Page not found",
+      "description": "This page doesn’t exist or was removed. We suggest you go back home."
     }
   }
 }
