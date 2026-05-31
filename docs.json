@@ -57,7 +57,12 @@
       },
       {
         "tab": "API reference",
-        "openapi": "https://api.offerclub.io/public-swagger-json"
+        "versions": [
+          {
+            "version": "V1.0",
+            "openapi": "https://api.offerclub.io/public-swagger-json"
+          }
+        ]
       }
     ],
     "global": {
