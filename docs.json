@@ -143,5 +143,8 @@
       "title": "Oops! Page not found",
       "description": "This page doesn’t exist or was removed. We suggest you go back home."
     }
+  },
+  "api": {
+    "openapi": "https://dev.offerclub.io/api/public-swagger-json"
   }
 }
