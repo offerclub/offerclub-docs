@@ -77,8 +77,8 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "https://offerclub.io/support"
+        "href": "https://offerclub.io/apps",
+        "label": "Integrations"
       }
     ],
     "primary": {
@@ -93,11 +93,9 @@
      "view",
      "chatgpt",
      "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+    "perplexity",
+    "assistant"
+  ]
   },
   "footer": {
     "socials": {
@@ -130,5 +128,8 @@
   },
   "api": {
     "openapi": "https://api.offerclub.io/public-swagger-json"
+  },
+  "interaction": {
+    "drilldown": false
   }
 }
