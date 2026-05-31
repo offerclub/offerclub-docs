@@ -63,7 +63,7 @@
             "pages": [
               "api-reference/introduction"
             ],
-            "openapi": "https://dev.offerclub.io/api/public-swagger-json"
+            "openapi": "https://api.offerclub.io/public-swagger-json"
           }
         ]
       }
@@ -137,6 +137,6 @@
     }
   },
   "api": {
-    "openapi": "https://dev.offerclub.io/api/public-swagger-json"
+    "openapi": "https://api.offerclub.io/public-swagger-json"
   }
 }
