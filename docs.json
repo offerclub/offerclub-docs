@@ -22,15 +22,11 @@
         "tab": "API reference",
         "pages": [
           "introduction",
-          {
-            "group": "Reference",
-            "expanded": true,
-            "openapi": "https://api.offerclub.io/public-swagger-json"
-          },
           "webhooks",
           "usage-limits",
           "errors"
-        ]
+        ],
+        "openapi": "https://api.offerclub.io/public-swagger-json"
       }
     ],
     "global": {
