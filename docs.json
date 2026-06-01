@@ -20,12 +20,6 @@
     "tabs": [
       {
         "tab": "API reference",
-        "pages": [
-          "introduction",
-          "webhooks",
-          "usage-limits",
-          "errors"
-        ],
         "openapi": "https://api.offerclub.io/public-swagger-json"
       }
     ],
