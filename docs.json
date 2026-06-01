@@ -29,6 +29,21 @@
           "anchor": "Blog",
           "href": "https://offerclub.io/blog",
           "icon": "newspaper"
+        },
+        {
+          "anchor": "Help Center",
+          "icon": "life-buoy",
+          "href": "https://offerclub.featurebase.app/en/help"
+        },
+        {
+          "anchor": "Changelog",
+          "icon": "megaphone",
+          "href": "https://offerclub.featurebase.app/en/changelog"
+        },
+        {
+          "anchor": "Roadmap",
+          "icon": "map",
+          "href": "https://offerclub.featurebase.app/en/roadmap"
         }
       ]
     }
@@ -47,7 +62,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://my.offerclub.io/"
+      "href": "https://app.offerclub.io/"
     }
   },
   "contextual": {
